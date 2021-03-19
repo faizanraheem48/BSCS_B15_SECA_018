@@ -34,7 +34,7 @@ class iPhone12ProMax1 extends StatelessWidget {
               decoration: BoxDecoration(
                 borderRadius:
                     BorderRadius.all(Radius.elliptical(9999.0, 9999.0)),
-                color: const Color(0xffe41a58),
+                color: const Color(0xff000000),
               ),
             ),
           ),
@@ -52,7 +52,7 @@ class iPhone12ProMax1 extends StatelessWidget {
               style: TextStyle(
                 fontFamily: 'Segoe UI',
                 fontSize: 20,
-                color: const Color(0xffffffff),
+                color: const Color(0xff000000),
                 fontWeight: FontWeight.w300,
               ),
               textAlign: TextAlign.left,
@@ -65,7 +65,7 @@ class iPhone12ProMax1 extends StatelessWidget {
               style: TextStyle(
                 fontFamily: 'Segoe UI',
                 fontSize: 12,
-                color: const Color(0xffc8c8c8),
+                color: const Color(0xff000000),
                 fontWeight: FontWeight.w300,
               ),
               textAlign: TextAlign.left,
@@ -79,7 +79,7 @@ class iPhone12ProMax1 extends StatelessWidget {
               decoration: BoxDecoration(
                 borderRadius:
                     BorderRadius.all(Radius.elliptical(9999.0, 9999.0)),
-                border: Border.all(width: 3.0, color: const Color(0xffff0000)),
+                border: Border.all(width: 3.0, color: const Color(0xff000000)),
               ),
             ),
           ),
@@ -90,7 +90,7 @@ class iPhone12ProMax1 extends StatelessWidget {
               style: TextStyle(
                 fontFamily: 'Segoe UI',
                 fontSize: 35,
-                color: const Color(0xffffffff),
+                color: const Color(0xff000000),
                 fontWeight: FontWeight.w300,
               ),
               textAlign: TextAlign.left,
@@ -103,7 +103,7 @@ class iPhone12ProMax1 extends StatelessWidget {
               style: TextStyle(
                 fontFamily: 'Segoe UI',
                 fontSize: 15,
-                color: const Color(0xffffffff),
+                color: const Color(0xff000000),
                 fontWeight: FontWeight.w300,
               ),
               textAlign: TextAlign.left,
@@ -173,7 +173,7 @@ class iPhone12ProMax1 extends StatelessWidget {
               style: TextStyle(
                 fontFamily: 'Segoe UI',
                 fontSize: 16,
-                color: const Color(0xffffffff),
+                color: const Color(0xff000000),
                 fontWeight: FontWeight.w300,
               ),
               textAlign: TextAlign.left,
@@ -186,7 +186,7 @@ class iPhone12ProMax1 extends StatelessWidget {
               style: TextStyle(
                 fontFamily: 'Segoe UI',
                 fontSize: 16,
-                color: const Color(0xffffffff),
+                color: const Color(0xff000000),
                 fontWeight: FontWeight.w300,
               ),
               textAlign: TextAlign.left,
@@ -199,7 +199,7 @@ class iPhone12ProMax1 extends StatelessWidget {
               style: TextStyle(
                 fontFamily: 'Segoe UI',
                 fontSize: 7,
-                color: const Color(0xffffffff),
+                color: const Color(0xff000000),
                 fontWeight: FontWeight.w300,
               ),
               textAlign: TextAlign.left,
@@ -212,7 +212,7 @@ class iPhone12ProMax1 extends StatelessWidget {
               style: TextStyle(
                 fontFamily: 'Segoe UI',
                 fontSize: 7,
-                color: const Color(0xffffffff),
+                color: const Color(0xff000000),
                 fontWeight: FontWeight.w300,
               ),
               textAlign: TextAlign.left,
@@ -265,7 +265,7 @@ class iPhone12ProMax1 extends StatelessWidget {
               decoration: BoxDecoration(
                 borderRadius:
                     BorderRadius.all(Radius.elliptical(9999.0, 9999.0)),
-                color: const Color(0xffff00cc),
+                color: const Color(0xff000000),
               ),
             ),
           ),
@@ -277,7 +277,7 @@ class iPhone12ProMax1 extends StatelessWidget {
               decoration: BoxDecoration(
                 borderRadius:
                     BorderRadius.all(Radius.elliptical(9999.0, 9999.0)),
-                color: const Color(0xff00e5ff),
+                color: const Color(0xff000000),
               ),
             ),
           ),
@@ -289,7 +289,7 @@ class iPhone12ProMax1 extends StatelessWidget {
               decoration: BoxDecoration(
                 borderRadius:
                     BorderRadius.all(Radius.elliptical(9999.0, 9999.0)),
-                color: const Color(0xff00ff22),
+                color: const Color(0xff000000),
               ),
             ),
           ),

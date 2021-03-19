@@ -1,6 +1,16 @@
 import 'package:flutter/material.dart';
-import 'package:settings_ui/pages/edit_profile.dart';
+import 'package:flutter_app/iPhone12ProMax1.dart';
 
 void main() {
-  runApp(SettingsUI());
+  runApp(MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  // This widget is the root of your application.
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      home: iPhone12ProMax1(),
+    );
+  }
 }
