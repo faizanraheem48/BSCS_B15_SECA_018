@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.final_app">
+    package="com.example.flutter_mysql_crud">
    <application
-        android:label="final_app"
+        android:label="flutter_mysql_crud"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
