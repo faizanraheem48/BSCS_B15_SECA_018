@@ -1,16 +1,12 @@
-# final_app
+![Splash screen – 8](https://user-images.githubusercontent.com/79686674/124241198-f9c2af00-db34-11eb-9df8-e522b6ba96a1.png)
+![Splash screen – 9](https://user-images.githubusercontent.com/79686674/124241209-fb8c7280-db34-11eb-9cda-fc64963d288b.png)
+![Splash screen – 10](https://user-images.githubusercontent.com/79686674/124241213-fc250900-db34-11eb-813f-5d498e71236f.png)
+![Splash screen – 11](https://user-images.githubusercontent.com/79686674/124241216-fcbd9f80-db34-11eb-8e5b-e2a0a8d9e1bc.png)
+![Splash screen](https://user-images.githubusercontent.com/79686674/124241221-fd563600-db34-11eb-897c-48201ae61849.png)
+![Splash screen – 1](https://user-images.githubusercontent.com/79686674/124241223-fdeecc80-db34-11eb-8baf-e9c1ab230263.png)
+![Splash screen – 4](https://user-images.githubusercontent.com/79686674/124241224-fe876300-db34-11eb-8498-6055665964f4.png)
+![Splash screen – 6](https://user-images.githubusercontent.com/79686674/124241225-fe876300-db34-11eb-9368-114c0d67a6bb.png)
 
-A new Flutter application.
 
-## Getting Started
+https://user-images.githubusercontent.com/79686674/124241240-02b38080-db35-11eb-879f-9b412b092f1b.mp4
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
